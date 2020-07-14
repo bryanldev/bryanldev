@@ -1,9 +1,7 @@
 ## Hello world!&nbsp; <img src="https://icon-icons.com/icons2/689/PNG/128/android_robot_mobile_mood_emoji_happy_joke_tounge_icon-icons.com_61434.png" width="64px">
 
 - :man_technologist: Meu nome é Bryan e sou um **Desenvolvedor Software**
-- 💻 Adoro o ecossistema Android e o desenvolvimento nativo da plataforma
-- 📚 **Kotlin**, Java, JavaScript, Python e C# são as linguas que falo 
-- 🏃 Corredor
+- 💻 Adoro o ecossistema Android e o desenvolvimento nativo da plataforma (Kotlin / Java)
 - 🕹️ Tukok, Quake, Mega-man...sou gamer das antigas.
 - 📫 Você pode me encontrar por aqui:
 
