@@ -8,4 +8,4 @@
 - :man_technologist: Desenvolvedor **Android Nativo**
 - 💻 **Kotlin** (❤️), Java, Python e C#
 - 🏃 Corredor
-- ⚡ Fun fact: eu funciono a base de suco de caju
+- ⚡ Fun fact: funciono a base de suco de caju
