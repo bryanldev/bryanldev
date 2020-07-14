@@ -5,7 +5,7 @@
 
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- :man_technologist: Desenvolvedor **Android Nativo**
-- 💻 **Kotlin** (❤️), Java, Python e C#
+- :man_technologist: Desenvolvedor **Android**
+- 💻 **Kotlin**, Java, Python e C#
 - 🏃 Corredor
 - ⚡ Fun fact: funciono a base de suco de caju
