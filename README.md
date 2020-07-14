@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bryanlds5@gmail.com)](mailto:bryanlds5@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/bryanlds/badges/micro)](https://www.codewars.com/users/bryanlds/badges/micro)
 
-## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello world!&nbsp;<img src="https://icon-icons.com/icons2/689/PNG/128/android_robot_mobile_mood_emoji_happy_joke_tounge_icon-icons.com_61434.png" width="64px">
 
 - :man_technologist: Desenvolvedor **Android**
 - 💻 **Kotlin**, Java, Python e C#
