@@ -2,6 +2,7 @@
 
 - :man_technologist: Meu nome é Bryan e sou um **Desenvolvedor Software**
 - 💻 Adoro o ecossistema Android e o desenvolvimento nativo da plataforma (Kotlin / Java)
+- 🎧 Na Web, trabalho no back-end com .Net Core
 - 🕹️ Tukok, Quake, Mega-man...sou gamer das antigas.
 - 📫 Você pode me encontrar por aqui:
 
