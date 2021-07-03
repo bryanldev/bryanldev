@@ -4,8 +4,15 @@
 - 💻 Adoro o ecossistema Microsoft e o desenvolvimento com .NET
 - 🎧 Também curto o desenvolvimento mobile nativo (Java / Kotlin)
 - 🕹️ Tukok, Quake, Mega-man...sou gamer das antigas.
-- 📫 Você pode me encontrar por aqui:
+- 📫 Me encontre no Linkedin: https://www.linkedin.com/in/bryan-leite-dos-santos/
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-leite-dos-santos/)](https://www.linkedin.com/in/bryan-leite-dos-santos/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bryanlds5@gmail.com)](mailto:bryanlds5@gmail.com)
-
+<table align="left">
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlds&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=bryanlds&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table>
