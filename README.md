@@ -3,7 +3,7 @@
   position: Brazil; 
   height: 171cm; 
   display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: red
+  background: .net, android framework, react native ; 
+  color: red;
 }
 ```
