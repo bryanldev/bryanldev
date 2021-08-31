@@ -3,7 +3,7 @@
   position: Brazil; 
   height: 171cm; 
   display: boy; 
-  background: dotnet, android framework, react native; 
+  background: '.html, .css, .js, .ts, tsx, .cs, .kt'; 
   color: red;
 }
 ```
