@@ -1,5 +1,5 @@
 ### About Me
-Hey there! I'm software developer!
+Hey there! I'm a software developer!
 
 ### Technologies
 - Mobile development with React Native and Expo.
